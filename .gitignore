@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+data/*
+!data/README.md
+data.local
+saved_model
+saved_buffer_indices
+results/
+*.log
+cache/*
+!cache/released/
+cache.local
