@@ -235,3 +235,7 @@ scripts/             training and calibration scripts
 
 Dataset images, newly trained checkpoints, buffer indices, local caches and results
 are ignored by Git. Dataset documentation and released caches are included.
+
+## Acknowledgments
+
+We thank the authors of [T-CIL](https://github.com/Seong-HyeonHwang/T-CIL_CVPR2025) and [SS-IL](https://github.com/hongjoon0805/SS-IL-Official) for making their code publicly available. Their implementations served as valuable references for our work.
